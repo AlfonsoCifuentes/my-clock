@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.clock {
+  font-family: "Courier New", Courier, monospace;
+  color: rgb(102, 255, 0);
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.clockDiv {
+  margin-top: 1rem;
+  color: rgb(48, 151, 0);
+  background-color: rgba(23, 82, 0, 0.644);
+  width: 80%;
+  border-radius: 25px;
+  padding: 1rem;
+  border: 5px solid greenyellow;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+h3{
+  margin: 0;
+  padding: 0.5rem;
+}
+
+img {
+  margin: 1rem;
+  width: 200px;
+}
+
+button {
+  padding: 0.5rem 1rem;
+  margin: 1rem;
+  width: 100px;
+  border: none;
+  border-radius: 25px;
+  background-color: rgb(144, 214, 96);
+  color: rgb(11, 56, 0);
+  font-weight: 500;
+}
