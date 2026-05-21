@@ -49,7 +49,7 @@ Este repositorio resume una pieza de producto pensada para explicar el problema,
 | Complejidad | Intermediate |
 | Lenguaje principal | JavaScript |
 | Primera version | 21 de febrero de 2022 |
-| Ultima actualizacion | 12 de mayo de 2026 |
+| Ultima actualizacion | 21 de mayo de 2026 |
 
 ## Enlaces
 
