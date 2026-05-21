@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+# My Clock
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> Suite Completa de Aplicaciones de Tiempo con React
 
-## Available Scripts
+## Resumen
 
-In the project directory, you can run:
+Una aplicación React multifuncional que incluye reloj en tiempo real, cuenta regresiva personalizable y cronómetro preciso. El proyecto demuestra manejo avanzado de estado temporal, actualizaciones en tiempo real, y diseño de interfaces intuitivas para aplicaciones de gestión de tiempo.
 
-### `npm start`
+## Valor del proyecto
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Aplicable en desarrollo de aplicaciones de productividad, herramientas de gestión de tiempo empresarial, aplicaciones de fitness y entrenamiento, y cualquier solución que requiera funcionalidades temporales precisas.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Este repositorio resume una pieza de producto pensada para explicar el problema, la solucion aplicada y el criterio tecnico detras de la implementacion.
 
-### `npm test`
+## Funcionalidades o puntos fuertes
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Reloj digital en tiempo real con múltiples formatos
+- Sistema de cuenta regresiva personalizable
+- Cronómetro de precisión con funciones avanzadas
+- Interface unificada para múltiples funciones de tiempo
+- Gestión eficiente de intervalos y timeouts
+- Diseño responsive para todos los dispositivos
+- Notificaciones y alertas configurables
 
-### `npm run build`
+## Stack principal
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- JavaScript
+- Time Management
+- Component Architecture
+- State Management
+- CSS3
+- HTML5
+- Real-time Updates
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Como explorar este proyecto
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Revisar la propuesta funcional y el enfoque visual o tecnico principal.
+- Identificar las decisiones de arquitectura, estructura o integracion que sostienen la experiencia.
+- Usar la demo o el codigo como base para evolucionar el proyecto hacia una version mas amplia.
 
-### `npm run eject`
+## Ficha rapida
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+| Campo | Detalle |
+| --- | --- |
+| Repositorio | my-clock |
+| Categoria | Web Development |
+| Grupo | Proyectos Web |
+| Complejidad | Intermediate |
+| Lenguaje principal | JavaScript |
+| Primera version | 21 de febrero de 2022 |
+| Ultima actualizacion | 12 de mayo de 2026 |
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Enlaces
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+- Demo en vivo: https://my-clock-eight.vercel.app
+- Repositorio: https://github.com/AlfonsoCifuentes/my-clock
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## Nota
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Este README se ha generado a partir del catalogo enriquecido del portfolio para mantener una descripcion consistente, explicativa y lista para evolucionar en cada repositorio.
